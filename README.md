@@ -1,4 +1,7 @@
 # hello-world-
 repo repo
 
-commiting for the 1st time, etc, etc
+
+
+tirei  e coloquei 6
+8 pra 5
